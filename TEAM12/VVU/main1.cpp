@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    LOG_D("\n*********\n");
+    LOG_D("\n********* AB\n");
     char ten[] = "Mai Van Vu";
     char lop[] = "KTLT - N14";
     int thang =3; 
